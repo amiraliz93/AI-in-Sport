@@ -1,4 +1,4 @@
-# Uni Project Madule 3
+#  Project 
 This repository consists of Project about AI in Sport. 
 this is my attempt to utilise  different supervised and unsuperside ML algorithms in sport datasets. 
 This project includes 3 main scenario
