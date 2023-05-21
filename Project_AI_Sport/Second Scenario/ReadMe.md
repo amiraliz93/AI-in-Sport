@@ -3,6 +3,8 @@ The second examination categorises players into similar groups based on some cha
 
 ### Categorizing football players into similar groups based on certain characteristics techniques is an interesting approach that can provide valuable insights for various purposes, such as #team composition, #player scouting, or #tactical analysis. By analyzing player attributes, playing styles, performance metrics, and other relevant factors, ML algorithms can identify patterns and similarities among players, allowing for the creation of meaningful player categories or clusters.
 
+## This analysis can provide insights into player similarities, playing styles, strengths, weaknesses, and potential synergies within and across clusters. Coaches, scouts, and team managers can then leverage this information for various purposes, such as team selection, player recruitment, tactical planning, or identifying areas for improvement in team composition.
+
 
 This study intends to uncover some players' skills that are highly associated with an overall rating and group them into comparable groups based on these characteristics. What if we could group players with 5 or 6 skills together and predict their groups only based on these skills? 
 
